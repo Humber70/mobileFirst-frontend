@@ -160,7 +160,7 @@ main {
 }
 
 .btn:hover {
-    background-color: var(--gradient-circle);
+    background-color: var(--gradient-background-blue);
 }
 
 .attribution {
