@@ -45,7 +45,8 @@ body {
 }
 
 img {
-    width: 18px;
+    width: 1.5em;
+    height: 1.5em;
     padding: 10px;
 }
 
@@ -123,6 +124,7 @@ main {
 
 .cont-summary .skill {
     display: flex;
+    align-items: center;
 }
 
 .summary-style1 {
